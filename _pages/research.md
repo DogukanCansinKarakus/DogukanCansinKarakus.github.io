@@ -10,7 +10,7 @@ My research focuses on the resolution of intrastate armed conflict, with particu
 
 A central strand of my research examines how domestic and international actors shape conflict resolution and the implementation of ceasefire and peace agreements. I investigate the conditions under which different forms of mediation and third-party involvement contribute to sustainable peace.
 
-My work on peace agreement implementation develops the concept of **third-party implementation governance**, focusing on how international, regional, and domestic actors coordinate monitoring, mediation, security guarantees, political leverage, and other implementation functions.
+My work on peace agreement implementation develops the concept of third-party implementation governance, focusing on how international, regional, and domestic actors coordinate monitoring, mediation, security guarantees, political leverage, and other implementation functions.
 
 ## Ceasefires and Mediation
 
