@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,7 @@ I am a political scientist specializing in peace and conflict research and curre
 
 My current research investigates the processes and actors that shape pathways from armed conflict toward sustainable peace. A central strand of this work examines third-party involvement across different stages of conflict resolution, from ceasefire negotiations and mediation to the implementation of peace agreements. In particular, I study the conditions under which different forms of mediation and implementation governance contribute to successful and durable outcomes.
 
-Methodologically, I employ mixed-method research designs that combine quantitative and qualitative analysis with original data collection, including cross-national datasets, large-scale surveys, and survey experiments.
+Methodologically, I employ mixed-method research designs combining quantitative and qualitative analysis with original data collection, including cross-national datasets, large-scale surveys, and survey experiments.
 
 ## Current Projects
 
