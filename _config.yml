@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Doğukan Cansin Karakuş"
+title                    : "Dr. disc. pol. Doğukan Cansin Karakuş"
 title_separator          : "-"
-name                     : &name "Doğukan Cansin Karakuş"
+name                     : &name "Dr. disc. pol. Doğukan Cansin Karakuş"
 description              : &description "Academic website of Doğukan Cansin Karakuş"
 url                      : "https://dogukancansinkarakus.github.io"
 baseurl                  : ""
@@ -23,7 +23,7 @@ repository               : "DogukanCansinKarakus/DogukanCansinKarakus.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Doğukan Cansin Karakuş"
+  name             : "Dr. disc. pol. Doğukan Cansin Karakuş"
   pronouns         :   
   bio              : "Political Scientist | Peace and Conflict Research"
   location         : "Kiel, Germany"
